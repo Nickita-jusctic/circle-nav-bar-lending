@@ -10,8 +10,8 @@ body{
     font-family: 'Roboto', sans-serif;
     background: url(./img/bg.jpg);
     background-position: cover;
-    background-size: 100%;
-    /* background-repeat: no-repeat; */
+    background-size: 330%;
+    background-repeat: no-repeat;
     min-height: 100vh;    
 
     display: flex;
